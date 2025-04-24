@@ -1,7 +1,6 @@
 
 ![kaoutar](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
-[![kaafkhar's 42 stats](https://badge.mediaplus.ma/binary/kaafkhar)](https://github.com/oakoudad/badge42)
 
 
 
@@ -10,4 +9,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afkkaoutar&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=afkkaoutar)  
